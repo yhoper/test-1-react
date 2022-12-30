@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "age": "22",
+      "department": "Informatica",
+      "course": "React"
+    },
+    {
+      "id": 2,
+      "name": "Celia",
+      "age": "21",
+      "department": "Administración",
+      "course": "Excel"
+    },
+    {
+      "id": 3,
+      "name": "Miguel",
+      "age": "23",
+      "department": "Biología",
+      "course": "Word"
+    },
+    {
+      "id": 4,
+      "name": "Angel",
+      "age": "23",
+      "department": "Contabilidad",
+      "course": "Office"
+    }
+  ]
+}
